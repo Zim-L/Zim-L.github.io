@@ -1,0 +1,8 @@
+{
+    
+    "villageGraph": "graph TD;\n你 --> 村庄;\n村庄 --> 收获金币;",
+    "caveGraph": "graph TD;\n你 --> 怪物;\n怪物 --> 宝藏;\n宝藏 --> 你;",
+    "scrollGraph": "graph TD;\nA((知识点 #1)) --> B((知识点 #2));\nB --> C((新发现));"
+    
+    
+}

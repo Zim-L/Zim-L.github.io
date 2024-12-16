@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/header1.jpg
   actions:
-    - label: "<i class='fas fa-user'></i>  Know more about me"
+    - label: "<i class='fas fa-user'></i>  Know more about me 迅速了解我"
       url: "/knowmore/"
 excerpt: >
   A PhD candidate at the University of Birmingham, UK.<br />
@@ -37,10 +37,21 @@ feature_row:
     btn_label: "Learn more 了解更多"
 ---
 
-This website is designed to let you quickly get to know me in an intuitive way.  <br />本站设计初衷为让您**迅速直观**地了解我。
+This website is designed to let you quickly get to know me in an intuitive way. 本站为让您**迅速直观**地了解我而设。
 
 {% include feature_row %}
 
+# Highlights 亮点
 
-> "I aim to help more people and contribute to the long-term survival of human civilization."  
+**\[[PPSN2024](https://dl.acm.org/doi/10.1007/978-3-031-70085-9_19)\]** develops a tool to visualise the landscape of multi-objective optimisation problems with a low-dimensional decision space.
+<img src="/assets/images/PPSN2024.png" alt="PPSN2024" width="800" style="display: block; margin: auto;">
+
+
+**\[[GECCO2023](https://dl.acm.org/doi/10.1145/3583133.3590646)\]** showed that non-elitist MOEAs can compete with well-known elitist MOEAs (NSGA-II, SMS-EMOA and NSGA-III) on several combinatorial problems, especially for the one with rugged fitness landscape.
+<img src="/assets/images/GECCO2023.png" alt="GECCO2023" width="800" style="display: block; margin: auto;">
+
+
+---
+
+> "I aim to help more people and contribute to the long-term survival of human civilization." 
 > “我希望在成长道路上帮助更多人，为人类文明的长久续存做贡献。”

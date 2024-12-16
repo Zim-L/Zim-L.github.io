@@ -23,5 +23,9 @@
   },
   "devDependencies": {
     "uglify-js": "^3.17.4"
+  },
+  "dependencies": {
+    "marked": "^15.0.4",
+    "mermaid": "^11.4.1"
   }
 }
