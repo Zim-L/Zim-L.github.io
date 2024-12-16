@@ -121,7 +121,7 @@ author:
   links:
     - label: "zimin.liang <At> outlook.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "zimin.liang@outlook.com"
+      url: "mailto:zimin.liang@outlook.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/profile.php?id=100004062171431"
@@ -130,7 +130,7 @@ author:
       url: "https://github.com/Zim-L/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "linkedin.com/in/zimin-liang/"
+      url: "https://www.linkedin.com/in/zimin-liang/"
 
 # Site Footer
 footer:
@@ -143,7 +143,7 @@ footer:
       url: "https://github.com/Zim-L/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "linkedin.com/in/zimin-liang/"
+      url: "https://www.linkedin.com/in/zimin-liang/"
 
 
 # Reading Files

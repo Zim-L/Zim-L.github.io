@@ -1,14 +1,16 @@
 # main links
 main:
-  - title: "Home"
-    url: ""
-  - title: "Research"
+  - title: "Home 主页"
+    url: "/"
+  - title: "Research 研究"
     url: "/research/"
-  - title: "Publication"
+  - title: "Publication 发表"
     url: "/publication/"
-  - title: "News"
+  - title: "Posts 文章"
+    url: "/posts/"
+  - title: "News 动态"
     url: "/news/"
-  - title: "About"
+  - title: "About me 关于我"
     url: "/about/"
   #- title: "Quick-Start Guide"
   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
