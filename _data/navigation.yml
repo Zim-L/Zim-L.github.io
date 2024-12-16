@@ -1,16 +1,16 @@
 # main links
 main:
-  - title: "Home Ö÷Ò³"
+  - title: "Home ä¸»é¡µ"
     url: "/"
-  - title: "Research ÑĞ¾¿"
+  - title: "Research ç ”ç©¶"
     url: "/research/"
-  - title: "Publication ·¢±í"
+  - title: "Publication å‘è¡¨"
     url: "/publication/"
-  - title: "Posts ÎÄÕÂ"
+  - title: "Posts æ–‡ç« "
     url: "/posts/"
-  - title: "News ¶¯Ì¬"
+  - title: "News åŠ¨æ€"
     url: "/news/"
-  - title: "About me ¹ØÓÚÎÒ"
+  - title: "About me å…³äºæˆ‘"
     url: "/about/"
   #- title: "Quick-Start Guide"
   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
