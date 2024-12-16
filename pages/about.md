@@ -1,30 +1,48 @@
 ---
 layout: single
 title: About Me / 关于我
+permalink: /about/
+author_profile: true
 ---
 
-# About Me / 关于我
 
-I am **Zimin Liang**, a PhD candidate at the University of Birmingham, UK. My research interests include:  
+I currently a PhD candidate at the University of Birmingham, UK. My research interests include:  
 - Multi-objective optimisation  
 - Combinatorial optimisation problems  
 - Evolutionary computation  
 
-I have experience working as a teaching assistant, leading academic events for the Doctorate Association, and conducting interdisciplinary collaborations. I also enjoy piano, Go, and reading.  
+I serve as Teaching assistant in several modules at University of Birmingham. In addition, I lead the academic department of the Doctorate Associate, promoting global interdisciplinary communication among young scholars. 
+I have organised online academic salons on "Sustainable Development" and support PhD groups interested in entrepreneurship. 
+In my free time, I enjoy playing the piano, Go, reading, Yi-ology and divination. 
+I aim to help more people and contribute to the long-term survival of human civilization.
 
-我是**梁子民**，目前是英国伯明翰大学的博士生。我的研究方向包括：  
+**梁子民**，英国伯明翰大学的博士生。我的研究方向包括：  
 - 多目标优化  
 - 组合优化问题  
 - 演化计算  
 
-我曾担任教学助理，并在博士联盟中组织学术活动，推动跨学科合作。此外，我喜欢钢琴、围棋和阅读。  
+我在伯明翰大学担任教学助理，并在博士联盟任职学术部部长组织学术活动、推动跨学科合作。此外，我喜欢钢琴、围棋、阅读、易学及四柱命理。  
+我希望能帮助更多的人，为人类文明长久续存做出细微的贡献。
 
 ---
 
 ## Skills / 技能  
+
+Besides Computer Science related skills, I have some other skills
+除计算机相关技能外，我另有如下技能：
+
 - **Languages / 语言**: Mandarin, Cantonese, English (IELTS 8.0), German (Beginner)  
-- **Programming / 编程**: Python, Java, C/C++, Haskell  
-- **Frameworks / 框架**: jMetal, pymoo, TensorFlow, OpenCV  
+- **Musical Instruments / 乐器**: Piano Improvisation accompaniment 钢琴即兴伴奏
+- **Board Games / 棋类**: Go, Xiangqi, Board Game Innovation (e.g., Six-Kingdoms Xiangqi) 围棋、象棋、桌游创新（如：六国象棋）
+- **Teaching / 教学**: K-12 Programming K12少年青年编程
+
+Other beginner-level skills 其他入门级技能：
+- Four-pillars Divination / 四柱命理预测
+- Language cosplay / 语言角色扮演
+- Harmonica, recorder, guitar / 口琴，竖琴，吉他
+- Cook (Chinese cuisine) / 烹饪 (中餐)
+- Driving / 驾驶
+- 
 
 ---
 

@@ -8,7 +8,7 @@ I am a PhD candidate at the University of Birmingham, UK. My research focuses on
 **梁子民 (Zimin Liang)**，英国伯明翰大学的博士生，研究方向为多目标优化、演化计算及组合优化问题。
 
 ### Quick Links / 快速链接
-- [About Me / 关于我](about.md)
+- [About Me / 关于我](/about/)
 - [LinkedIn](https://www.linkedin.com/in/zimin-liang/)
 - [GitHub](https://github.com/Zim-L)
 - [Contact Me / 联系我](mailto:zimin.liang@outlook.com)

@@ -135,9 +135,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "zimin.liang@outlook.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/profile.php?id=100004062171431"
@@ -153,6 +150,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - /pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -320,4 +318,7 @@ defaults:
 exclude:
   - _site
 
-include: ["_pages"]
+
+header_pages:
+  - index.md
+  - pages/about.md
