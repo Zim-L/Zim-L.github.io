@@ -113,13 +113,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zimin Liang Áº×ÓÃñ"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ÈËÓë×ÔÈ»ºÍĞ³£¬ÈËÈËÎÂ±¥½¡¿µ£¬ÈËÈË¸öĞÔ½ÌÓı"
+  name             : "Zimin Liang æ¢å­æ°‘"
+  avatar           : "/assets/images/me.jpg"
+  bio              : "äººä¸è‡ªç„¶å’Œè°ï¼Œäººäººæ¸©é¥±å¥åº·ï¼Œäººäººä¸ªæ€§æ•™è‚² \n Nature harmony, well-being and personalised education for all."
   location         : "Birmingham, UK; Shenzhen, China (Ocassionally)"
   email            :
   links:
-    - label: "Email"
+    - label: "zimin.liang <At> outlook.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "zimin.liang@outlook.com"
     - label: "Facebook"
@@ -316,3 +316,8 @@ defaults:
       comments: # true
       share: true
       related: true
+
+exclude:
+  - _site
+
+include: ["_pages"]
