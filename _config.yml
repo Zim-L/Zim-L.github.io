@@ -119,9 +119,11 @@ author:
   location         : "Birmingham, UK; Shenzhen, China (Ocassionally)"
   email            :
   links:
-    - label: "zimin.liang <At> outlook.com"
+    - label: "zimin.liang@outlook.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:zimin.liang@outlook.com"
+    - label: "or zimin.liang@foxmail.com"
+      url: "mailto:zimin.liang@foxmail.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/profile.php?id=100004062171431"
@@ -131,10 +133,14 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/zimin-liang/"
+    
 
 # Site Footer
 footer:
   links:
+    - label: "EMAIL"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:zimin.liang@outlook.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/profile.php?id=100004062171431"

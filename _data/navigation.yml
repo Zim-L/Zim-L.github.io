@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Home 主页"
-    url: "/"
   - title: "Research 研究"
     url: "/research/"
   - title: "Publication 发表"
