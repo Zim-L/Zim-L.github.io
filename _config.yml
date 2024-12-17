@@ -141,16 +141,15 @@ footer:
     - label: "EMAIL"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:zimin.liang@outlook.com"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=100004062171431"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Zim-L/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/zimin-liang/"
-
+    - label: "School of Computer Science, University of Birmingham,Edgbaston, Birmingham  B15 2TT United Kingdom"
+      icon: "fab fa-fw fa-home"
+      url: "https://birmingham.ac.uk/schools/computer-science/"
 
 # Reading Files
 include:
@@ -197,14 +196,8 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
-kramdown:
-  math_engine: "mathjax"
   
-mathjax: true
 
-mermaid:
-  enable: true
 
 # Markdown Processing
 kramdown:
@@ -216,7 +209,11 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  math_engine: "mathjax"
+  mathjax: true
 
+mermaid:
+  enable: true
 
 # Sass/SCSS
 sass:

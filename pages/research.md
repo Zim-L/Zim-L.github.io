@@ -12,7 +12,7 @@ feature_row:
     btn_class: "btn--primary btn--large"
     btn_label: "Learn more"
   - alt: "Empirical"
-    title: Compare Algorithms
+    title: Analysing Algorithms
     excerpt: Compare multi-objective optimisation algorithms on different problems, studying when and why to choose some algorithms on different problem classes.
     url: "/research/"
     btn_class: "btn--primary btn--large"

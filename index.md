@@ -35,7 +35,7 @@ feature_row:
   - image_path: /assets/images/ATIllustration.png
     alt: "Other"
     title: 其他项目 <br /> Other Projects
-    excerpt: 其他好玩的项目和脑洞。 <br /> Other projects and ideas that you may find interesting. "
+    excerpt: 其他好玩的项目和脑洞。 <br /> Other projects and ideas that you may find interesting. 
     url: "/others/"
     btn_class: "btn--info btn--large"
     btn_label: "了解更多 Learn more"

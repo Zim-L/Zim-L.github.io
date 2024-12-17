@@ -38,22 +38,24 @@ I also serve as a teaching assistant at the University of Birmingham and as the 
 <img src="/assets/images/GECCO2023.png" alt="GECCO2023" width="800" style="display: block; margin: auto;">
 
 
-## 兴趣技能 / Hobbies and Skills
+## 动态 News
+ - November 2024 - 参与会议：行星文明史研究跨学科论坛
+ - October 2024 - 博士联盟线上沙龙第6期-浅谈几个常常被误解的语言学问题
+ - September 2024 - 参与会议：PPSN'24
+ - August 2024 - 博士联盟线上沙龙第5期：从电子游戏到桌游：英国《战锤》的中国粉丝文化
+ - July 2024 - 博士联盟线上沙龙第4期 ——水资源与可持续发展
+ - June 2024 - 博览英才 智创湾区｜深圳宝安区创新创业大赛海外博创赛（2023）总决赛圆满结束！
+ - June 2024 - 博士联盟线上沙龙第3期——“欧洲正走向衰亡？欧洲地缘政治的昨天、今天和明天”
+ - May 2024 - Birmingham International Scholars Forum - Hosting AI sub-forum of  伯明翰国际青年学者论坛 - AI分论坛。
+ - May 2024 - Our work on visualising landscape of multi-objective optimisation problems has been accepted by PPSN'24. Congratulation to Miqing and Zhiji!
+ - May 2024 - 博士联盟线上沙龙第2期——新能源与可持续发展
+ - March 2024 - Our work on empirical comparison between MOEAs and local search on multi-objective combinatorial problems has been accepted by GECCO'24. Congratulation to Miqing, Xiaochen and Zimin!
+ - Feburary 2024 - 博士联盟青年学者圆桌论坛第一期——碳中和与可持续发展
+ - March 2023 - Our work (collaborated with Prof Per Kristian Lehre) on some preliminary results of non-elitist evolutionary multi-objective optimisation has been accepted by GECCO'23. Congratulation to Miqing, Per Kristian!
 
-除计算机相关技能外，我另有如下技能：
-- **语言**: 普通话, 粤语, 英语(雅思 8.0), 德语  
-- **乐器**: 钢琴即兴伴奏
-- **棋类**: 围棋、象棋、桌游创新（如：六国象棋）
-- **教学**: K12少年青年编程
 
-其他兴趣技能：
-- 四柱命理预测
-- 语言角色扮演
-- 口琴，竖琴，吉他
-- 驾驶
-- 运动：羽毛球、乒乓球、网球
 
 ---
 
 > “我希望在成长道路上帮助更多人，为人类文明的长久续存做贡献。”<br />
-> "I aim to help more people and contribute to the long-term survival of human civilization."
+> "I aim to help more people and contribute to the long-term survival of human civilization."
