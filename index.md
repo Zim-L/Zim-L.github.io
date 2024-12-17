@@ -6,7 +6,7 @@ hidden: true
 wide: true
 header:
   overlay_image: /assets/images/header1.jpg
-  overlay_filter: 0.3
+  overlay_filter: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,0.4))
   actions:
     - label: "<i class='fas fa-user'></i>  Know more about me 迅速了解我"
       url: "/knowmore/"

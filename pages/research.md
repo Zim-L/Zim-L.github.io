@@ -25,7 +25,7 @@ feature_row:
     btn_label: "Learn more"
   - alt: "Theorectical"
     title: Theorectical Studies
-    excerpt: Theorectical studies such as the convexity of Pareto fronts and characteristics of Pseudo boolean problems in rigorous runtime analysis.
+    excerpt: Theorectical studies such as the characteristics of Pseudo boolean problems in rigorous runtime analysis.
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -36,15 +36,15 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
-
-# Research Interests 研究兴趣
-
-如果您是**第一次**听说多目标优化，欢迎阅读一个超简短介绍 [**Beginner Guide for Multi-Objective Optimisation**](/MOO/)
+如果您是**第一次**听说或不熟悉多目标优化，欢迎阅读一个超简短介绍 [**Beginner Guide for Multi-Objective Optimisation**](/MOO/)
 {: .notice--danger}
 
 如果您对多目标优化的现实应用感兴趣，请访问此页面 [**多目标优化应用 Applications**](/Applications/)<br />
 If you are interested in real-world applications of multi-ojective optimisation, visit ↑
 {: .notice--warning}
+
+
+# Research Interests 研究兴趣
 
 My research interests principally lie in **multi-objective optimisation**. This includes both practical and theoretical aspects.
 

@@ -2,7 +2,6 @@
 layout : single
 title : Multiobjective Optimisation 多目标优化
 permalink: /MOO/
-hide : true
 wide : true
 author_profile: true
 classes: wide
@@ -11,7 +10,7 @@ toc : true
 
 ## 什么是多目标问题？
 
-<img src="/assets/images/MOIllustration.png" alt="示例图" width="400" style="display: block; margin: auto;">
+<img src="/assets/images/MOIllustration.png"  alt="示例图" width="400" style="display: block; margin: auto;">
 
 
 想象一下，你想花更少的**钱（Cost）**，但又希望耗更少的**能量（Energy）**来完成一件事。两个目标互相冲突：要花更少的钱，可能会耗费更多能量；要省能量，成本又可能增加。
