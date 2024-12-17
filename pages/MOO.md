@@ -1,6 +1,6 @@
 ---
 layout : single
-title : Multiobjective Optimisation 多目标优化
+title : 多目标优化 Multiobjective Optimisation 
 permalink: /MOO/
 wide : true
 author_profile: true
@@ -15,7 +15,7 @@ toc : true
 
 想象一下，你想花更少的**钱（Cost）**，但又希望耗更少的**能量（Energy）**来完成一件事。两个目标互相冲突：要花更少的钱，可能会耗费更多能量；要省能量，成本又可能增加。
 
-这种同时优化多个冲突目标的问题，就是**多目标问题**。
+同时优化多个冲突目标的问题，就是**多目标问题**。
 
 ## 多目标问题为什么重要？
 现实生活中太多这样的例子了。

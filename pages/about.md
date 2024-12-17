@@ -1,56 +1,59 @@
 ---
 layout: single
-title: About Me / 关于我
+title: 关于我 / About Me
 permalink: /about/
 author_profile: true
+class: wide
 ---
 
-[Download CV / 下载CV](/assets/files/cv.pdf)
+[ 下载简历 / Download CV ](/assets/files/cv.pdf)
 
-I currently a PhD candidate at the University of Birmingham, UK. My research interests include:  
-- Multi-objective optimisation  
-- Combinatorial optimisation problems  
-- Evolutionary computation  
+英国伯明翰大学计算机系博士生，师从李密青博士及Per Kristian Lehre教授。主要研究优化与人工智能，既解析优化问题并通过开发算法（如演化算法、局部搜索）来解决问题。目前方向有：
+ - 多目标组合优化
+ - 演化算法与局部搜索的对比
+ - 优化问题分析（适应度地形分析及可视化）
+ - 多目标理论测试问题。
 
-I serve as Teaching assistant in several modules at University of Birmingham. In addition, I lead the academic department of the Doctorate Associate, promoting global interdisciplinary communication among young scholars. 
-I have organised online academic salons on "Sustainable Development" and support PhD groups interested in entrepreneurship. 
-In my free time, I enjoy playing the piano, Go, reading, Yi-ology and divination. 
-I aim to help more people and contribute to the long-term survival of human civilization.
+我同时在伯明翰大学担任教学助理，并在[**博士联盟**](https://www.doctorateassociation.org/)学术部任职部长，组织学术活动并推动跨学科合作，欢迎有意合作者联系。业余时间喜欢钢琴、围棋、阅读及四柱命理。
 
-**梁子民**，英国伯明翰大学的博士生。我的研究方向包括：  
-- 多目标优化  
-- 组合优化问题  
-- 演化计算  
 
-我在伯明翰大学担任**教学助理**，并在博士联盟任职**学术部部长**组织学术活动、推动跨学科合作。此外，我喜欢钢琴、围棋、阅读、易学及四柱命理。我希望能帮助更多的人，为人类文明长久续存做出细微的贡献。
+I am currently a PhD candidate in the School of Computer Science at the University of Birmingham, supervised by Dr. Miqing Li and Professor Per Kristian Lehre. My research sits at the intersection between optimisation and AI, aiming to analyse optimisation problems and solve them by developing algorithms (e.g., evolutionary algorithms, local search). My current research interests include
+ - multi-objective combinatorial optimization
+ - comparisons between evolutionary algorithms and local search
+ - optimization problem analysis (fitness landscape analysis and visualization)
+ - multi-objective test problems in theory community
+
+I also serve as a teaching assistant at the University of Birmingham and as the Head of the Academic Department in the [Doctorate Associate](https://www.doctorateassociation.org/), where I organise academic events and promote interdisciplinary collaboration. Welcome to get in touch for collaboration! In my spare time, I enjoy playing the piano, Go, reading, and studying the Four Pillars of Destiny.
 
 
 ---
 
-## Skills / 技能  
+## 亮点 Highlights
 
-Besides Computer Science related skills, I have some other skills
+**\[[PPSN2024](https://dl.acm.org/doi/10.1007/978-3-031-70085-9_19)\]** develops a tool to visualise the landscape of multi-objective optimisation problems with a low-dimensional decision space.
+<img src="/assets/images/PPSN2024.png" alt="PPSN2024" width="800" style="display: block; margin: auto;">
+
+
+**\[[GECCO2023](https://dl.acm.org/doi/10.1145/3583133.3590646)\]** showed that non-elitist MOEAs can compete with well-known elitist MOEAs (NSGA-II, SMS-EMOA and NSGA-III) on several combinatorial problems, especially for the one with rugged fitness landscape.
+<img src="/assets/images/GECCO2023.png" alt="GECCO2023" width="800" style="display: block; margin: auto;">
+
+
+## 兴趣技能 / Hobbies and Skills
+
 除计算机相关技能外，我另有如下技能：
+- **语言**: 普通话, 粤语, 英语(雅思 8.0), 德语  
+- **乐器**: 钢琴即兴伴奏
+- **棋类**: 围棋、象棋、桌游创新（如：六国象棋）
+- **教学**: K12少年青年编程
 
-- **Languages / 语言**: Mandarin, Cantonese, English (IELTS 8.0), German (Beginner)  
-- **Musical Instruments / 乐器**: Piano Improvisation accompaniment 钢琴即兴伴奏
-- **Board Games / 棋类**: Go, Xiangqi, Board Game Innovation (e.g., Six-Kingdoms Xiangqi) 围棋、象棋、桌游创新（如：六国象棋）
-- **Teaching / 教学**: K-12 Programming K12少年青年编程
+其他兴趣技能：
+- 四柱命理预测
+- 语言角色扮演
+- 口琴，竖琴，吉他
+- 驾驶
+- 运动：羽毛球、乒乓球、网球
 
 ---
 
-Other beginner-level skills 其他入门级技能：
-- Four-pillars Divination / 四柱命理预测
-- Language cosplay / 语言角色扮演
-- Harmonica, recorder, guitar / 口琴，竖琴，吉他
-- Cook (Chinese cuisine) / 烹饪 (中餐)
-- Driving / 驾驶
-- Badminton, Table-Tennis, Tennis / 羽毛球、乒乓球、网球
-
-
-
-## Publications / 论文
-
-- Z. Liang, Z. Cui, M. Li. Pareto landscape: Visualising the landscape of multi-objective optimisation problems. PPSN, 2024.  
-- M. Li, X. Hang, X. Chu, Z. Liang. Empirical comparison between MOEAs and local search. GECCO, 2024.  
-- Z. Liang, M. Li, P. K. Lehre. Non-elitist evolutionary multi-objective optimisation: Proof-of-principle results. GECCO Companion, 2023.  
+> “我希望在成长道路上帮助更多人，为人类文明的长久续存做贡献。”<br />
+> "I aim to help more people and contribute to the long-term survival of human civilization."

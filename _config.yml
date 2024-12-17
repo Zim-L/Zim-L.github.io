@@ -116,7 +116,7 @@ author:
   name             : "Zimin Liang 梁子民"
   avatar           : "/assets/images/me.jpg"
   bio              : "人与自然和谐，人人温饱健康，人人个性教育 \n Nature harmony, well-being and personalised education for all."
-  location         : "Birmingham, UK; Shenzhen, China (Ocassionally)"
+  location         : "Birmingham, UK"
   email            :
   links:
     - label: "zimin.liang@outlook.com"
@@ -201,6 +201,8 @@ incremental: false
 kramdown:
   math_engine: "mathjax"
   
+mathjax: true
+
 mermaid:
   enable: true
 

@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Research 研究
+title: 研究 Research 
 permalink: /research/
 hidden: true
 feature_row:
@@ -9,42 +9,41 @@ feature_row:
     title: Algorithms Design
     excerpt: "Design algorithms for complicated multi-objective optimisation problems which are either discrete or having a rugged fitness landscape."
     url: "/research/"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary btn--large"
     btn_label: "Learn more"
   - alt: "Empirical"
     title: Compare Algorithms
     excerpt: Compare multi-objective optimisation algorithms on different problems, studying when and why to choose some algorithms on different problem classes.
     url: "/research/"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary btn--large"
     btn_label: "Learn more"
   - alt: "Visualisation"
     title: Landscape Visualisation
     excerpt: Visualisation methods specifically for multi-objective fitness landscape, to provide intuitive ideas about the optimisation problems. 
     url: "/research/"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary btn--large"
     btn_label: "Learn more"
   - alt: "Theorectical"
     title: Theorectical Studies
     excerpt: Theorectical studies such as the characteristics of Pseudo boolean problems in rigorous runtime analysis.
     url: "/research/"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary btn--large"
     btn_label: "Learn more"
   - alt: "Other"
     title: Other Research Interests
     excerpt: Other research interests include cross-disciplinary studies of artificial life models and STSE, as well as multi-objective procedural content generation.
     url: "/research/"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary btn--large"
     btn_label: "Learn more"
 ---
-如果您是**第一次**听说或不熟悉多目标优化，欢迎阅读一个超简短介绍 [**Beginner Guide for Multi-Objective Optimisation**](/MOO/)
+如果您是**第一次**听说或不熟悉多目标优化，欢迎阅读一个超简短介绍 [多目标简介**Beginner Guide for Multi-Objective Optimisation**](/MOO/)
 {: .notice--danger}
 
-如果您对多目标优化的现实应用感兴趣，请访问此页面 [**多目标优化应用 Applications**](/Applications/)<br />
-If you are interested in real-world applications of multi-ojective optimisation, visit ↑
+如果您来自**产业/工业界**，想了解我研究的**应用场景**或需要多目标优化相关人员，请访问此页面 [**产业 Industry**](/industry/)<br />
 {: .notice--warning}
 
 
-# Research Interests 研究兴趣
+# Research Interests
 
 My research interests principally lie in **multi-objective optimisation**. This includes both practical and theoretical aspects.
 

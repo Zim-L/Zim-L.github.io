@@ -1,11 +1,12 @@
 ---
 layout: single
-title: News / 新闻
+title: News / 动态
 permalink: /news/
 author_profile: true
 ---
-
+ - November 2024 - 参与会议：行星文明史研究跨学科论坛
  - October 2024 - 博士联盟线上沙龙第6期-浅谈几个常常被误解的语言学问题
+ - September 2024 - 参与会议：PPSN'24
  - August 2024 - 博士联盟线上沙龙第5期：从电子游戏到桌游：英国《战锤》的中国粉丝文化
  - July 2024 - 博士联盟线上沙龙第4期 ——水资源与可持续发展
  - June 2024 - 博览英才 智创湾区｜深圳宝安区创新创业大赛海外博创赛（2023）总决赛圆满结束！
