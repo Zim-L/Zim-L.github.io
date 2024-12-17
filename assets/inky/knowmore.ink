@@ -5,7 +5,7 @@ VAR previous_branch = ""
 === Root ===
 CLEAR
 ~ previous_branch = "Root"
-+ Industrial applications / 工业应用
++ Industrial applications / 产业应用
 -> Industrial
 + Academic research / 学术研究
 -> Academic
@@ -20,7 +20,7 @@ CLEAR
 CLEAR
 Content目录 - Industrial工业应用
 ~ previous_branch = "Industrial"
-+ Professional background / 专业背景
++ Research background / 研究背景
 -> Industrial_Background
 + Applications / 应用场景
 -> Industrial_Applications
@@ -119,7 +119,12 @@ Content目录 - Personal interests个人兴趣
 
 === Multiobjective_Optimisation ===
 ~ previous_branch = "Multiobjective_Optimisation"
-IMPORT /MOO
+
+> 我们想要“成本低”但同时也希望“能耗低”,这时该怎么办？多目标优化就是在解决一个问题时，我们需要同时考虑多个互相冲突的目标。
+> Multi-objective optimization is about solving problems where we need to consider multiple goals at the same time, which may conflict with each other.
+
+详情参见[Guide for Multi-Objective Optimisation](/MOO)
+See above link
 
 + Back / 返回 
 -> Industrial_Background

@@ -42,7 +42,8 @@ feature_row:
 如果您是**第一次**听说多目标优化，欢迎阅读一个超简短介绍 [**Beginner Guide for Multi-Objective Optimisation**](/MOO/)
 {: .notice--danger}
 
-如果您对多目标优化的现实应用感兴趣，请访问此页面 [**多目标优化应用**](/Applications/)
+如果您对多目标优化的现实应用感兴趣，请访问此页面 [**多目标优化应用 Applications**](/Applications/)<br />
+If you are interested in real-world applications of multi-ojective optimisation, visit ↑
 {: .notice--warning}
 
 My research interests principally lie in **multi-objective optimisation**. This includes both practical and theoretical aspects.

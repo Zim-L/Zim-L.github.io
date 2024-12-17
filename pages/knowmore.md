@@ -10,7 +10,10 @@ To quickly access my info and CV, visit [About me]("/about/")
 迅速了解个人信息、获取简历，点击[关于我]("/about/")
 
 This page uses a few questions to let you quickly get to know the information you are interested in about me.
-本页用几个问题来让您迅速了解您感兴趣的信息。
+本页用几个问题来让您迅速找到您感兴趣的信息。
+
+
+# Let's Go
 
 <div id="story-container"></div>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
