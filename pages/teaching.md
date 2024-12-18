@@ -5,9 +5,10 @@ permalink: /teaching/
 author_profile: true
 toc: true
 ---
-
-作为多门计算机科学课程的教学助理，我主要协助学生理解关键概念和完成作业。在“计算机辅助校验”课程中，我负责实验课的设计与教学，并出卷与批改实验类测验，帮助学生掌握复杂的验证工具和技术。此外，在“人工智能2”、“数据科学算法”和“演化计算”课程中，我通过答疑与作业批改，支持学生理解算法与理论。在硕士毕业项目中，我指导学生使用Git、LaTeX和编程工具，为他们的独立研究提供必要的支持。<br />
-As a teaching assistant for multiple computer science courses, I focused on helping students grasp key concepts and complete assignments. In Computer-Aided Verification, I was responsible for designing and teaching lab sessions, as well as preparing and grading lab-related assessments, enabling students to understand verification tools and techniques. For courses like Artificial Intelligence 2, Data Science Algorithms, and Evolutionary Computation, I supported students through Q&A and assignment grading, ensuring they gained a solid understanding of both algorithms and theory. Additionally, in MSc Projects, I provided guidance on tools such as Git, LaTeX, and programming to assist students in their independent research. My role has been to provide steady support to help students navigate and succeed in these courses.
+**简要 Summary**<br />
+我曾在伯明翰大学任职多门计算机科学课程的教学助理。在“计算机辅助校验”课程中，我负责实验课的设计与教学，并出卷与批改实验类测验，帮助学生掌握复杂的校验工具和技术。此外，在“人工智能2”、“数据科学算法”和“演化计算”课程中，我通过答疑与作业批改，支持学生理解算法与理论。在硕士毕业项目中，我指导学生使用Git、LaTeX和编程工具，为他们的独立研究提供必要的支持。<br />
+I am/was teaching assistant for multiple computer science modules at University of Birmingham.
+In Computer-Aided Verification, I was responsible for designing and teaching lab sessions, as well as preparing and grading lab-related assessments, enabling students to understand verification tools and techniques. For courses like Artificial Intelligence 2, Data Science Algorithms, and Evolutionary Computation, I supported students through Q&A and assignment grading, ensuring they gained a solid understanding of both algorithms and theory. In MSc Projects, I provided guidance on tools such as Git, LaTeX, and programming basis to assist students in their independent research. 
 {: .notice--info}
 
 ## 演化计算 Evolutionary Computation
@@ -23,9 +24,9 @@ This course explores AI applications under uncertainty, including interpretable 
 
 
 ## 计算机辅助校验 Computer-Aided Verification
-计算机辅助校验教会学生如何通过模型检测验证系统行为，确保程序的正确性。课程内容包括时序逻辑、状态转换系统及验证工具（如SPIN, nuXmv），以及高级技术如基于BDD的符号验证和抽象等。我作为教学助理负责实验课设计教学、答疑及实验类测验的出卷改卷工作。
+计算机辅助校验教会学生如何通过模型检测验证系统行为，确保程序的正确性。课程内容包括形式化方法（如时序逻辑、状态转换系统）及验证工具（如SPIN, nuXmv），以及高级技术如基于BDD的符号验证和抽象等。我作为教学助理负责实验课设计教学、答疑及实验类测验的出卷改卷工作。
 
-Computer-Aided Verification teaches students to validate system behaviors using model checking to ensure correctness. Topics include temporal logic, state transition systems, and tools like nuSMV, along with advanced techniques like symbolic verification with BDDs and abstraction. As a teaching assistant, I am responsible for designing and teaching lab sessions, Q&A, and designing and grading lab-related assignments.
+Computer-Aided Verification teaches students to validate system behaviors using model checking to ensure correctness. Topics include formal methods (e.g., temporal logic, state transition systems) and tools like nuSMV, along with advanced techniques like symbolic verification with BDDs and abstraction. As a teaching assistant, I am responsible for designing and teaching lab sessions, Q&A, and designing and grading lab-related assignments.
 
 
 ## 数据科学算法 Algorithms for Data Science 
@@ -34,6 +35,6 @@ Computer-Aided Verification teaches students to validate system behaviors using 
 This course introduces fundamental algorithms in data science, such as linear regression, logistic regression, decision trees, and random forests. Students also explore clustering (e.g., K-means) and dimensionality reduction (e.g., PCA) techniques essential for data analysis and modeling. As a teaching assistant, I am responsible for Q&A and grading assignments.
 
 ## 硕士毕业项目 MSc Projects
-硕士项目是学生独立开展研究或开发软件的重要阶段。学生将应用所学知识，深入探索计算机科学领域的特定问题，完成一项独立项目，并展示研究成果。我作为教学助理指导学生使用Git、LaTeX、编程及协助学生与学校交流。
+硕士项目是学生独立开展研究或开发软件的重要阶段。学生将应用所学知识，深入探索计算机科学领域的特定问题，完成一项独立项目，并展示研究成果。我作为教学助理指导学生使用Git、LaTeX、编程及协助学生与导师、学校交流。
 
-MSc Projects are a vital part of the program where students independently conduct research or develop software in computer science. This final semester focuses on applying learned knowledge to solve specific problems and present meaningful outcomes. As a teaching assistant, I guide students in using Git, LaTeX, and programming, as well as assist them in communicating with the university.
+MSc Projects are a vital part of the program where students independently conduct research or develop software in computer science. This final semester focuses on applying learned knowledge to solve specific problems and present meaningful outcomes. As a teaching assistant, I guide students in using Git, LaTeX, and programming, as well as assist them in communicating with the supervisor and the university.

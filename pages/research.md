@@ -39,7 +39,7 @@ feature_row:
 如果您是**第一次**听说或不熟悉多目标优化，欢迎阅读一个超简短介绍 [多目标简介**Beginner Guide for Multi-Objective Optimisation**](/MOO/)
 {: .notice--danger}
 
-如果您来自**产业/工业界**，想了解我研究的**应用场景**或需要多目标优化相关人员，请访问此页面 [**产业 Industry**](/industry/)<br />
+如果您来自**产业/工业界**，想了解我研究的**应用场景**或在招聘多目标优化或演化计算相关人员，请访问此页面 [**产业 Industry**](/industry/)<br />
 {: .notice--warning}
 
 

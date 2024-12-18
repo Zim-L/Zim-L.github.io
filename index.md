@@ -43,7 +43,21 @@ feature_row:
 
 {% include feature_row %}
 
+**联系方式 Contact**
+{: .text-center}
 
+[School of Computer Science](https://www.birmingham.ac.uk/schools/computer-science/) <a href="https://www.bing.com/maps?osid=a59555ca-7b8b-4731-a0ad-38da711e541f&cp=sr7hydgv3z5g&lvl=15.75&pi=0&imgid=f0cfdbd0-23c2-45d8-9132-4cf510fd0b6d&v=2&sV=2&form=S00027"><i class="fa-solid fa-map-pin"></i></a><br />
+[University of Birmingham](https://www.birmingham.ac.uk)<br />
+Edgbaston, Birmingham B15 2TT <br />
+United Kingdom<br />
+{: .text-center}
+
+[zimin.liang@outlook.com](mailto:zimin.liang@outlook.com) <br />
+or [zimin.liang@foxmail.com](mailto:zimin.liang@foxmail.com)
+{: .text-center}
+
+<a href="https://www.linkedin.com/in/zimin-liang/"><i class="fa-brands fa-linkedin fa-lg"></i> LinkedIn </a>  <a href="https://github.com/Zim-L/"><i class="fa-brands fa-github fa-lg"></i> Github</a> 
+{: .text-center}
 
 
 ---

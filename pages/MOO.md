@@ -10,7 +10,7 @@ toc : true
 
 ## 什么是多目标问题？
 
-<img src="/assets/images/MOIllustration.png"  alt="示例图" width="400" style="display: block; margin: auto;">
+<img src="/assets/images/MOillustration.png" alt="IllustrationMOO" width="400" style="display: block; margin: auto;">
 
 
 想象一下，你想花更少的**钱（Cost）**，但又希望耗更少的**能量（Energy）**来完成一件事。两个目标互相冲突：要花更少的钱，可能会耗费更多能量；要省能量，成本又可能增加。
@@ -30,16 +30,17 @@ toc : true
 但是这些差的解太多了，想要找到1个最优解都未必容易，更何况找到很多个？
 
 想要找到很多个最优解，需要**策略**和**工具**。
-找完之后，要帮助决策者选出最合适的那1个（各方平衡）或几个（低中高端）。
+业界中许多人的第一选项是最知名的算法如NSGA-II或MOEA/D，但它们未必是最适合的。哪怕适合，也需要合适的配置来发挥出最好的效果。
+找完一个解集之后，下一步要帮助决策者选出最合适的那1个（各方平衡）或几个（低中高端）解决方案。
 
 简单来讲，多目标优化是一门既要又要的艺术。
 
 --- 
 
-## What is Multi-Objective Optimization?  
+## What is Multi-Objective Optimisation?  
 Imagine you want to **spend less money (Cost)** but also **use less energy (Energy)** to complete a task. These two goals often conflict: reducing costs may increase energy consumption, and saving energy might raise costs.  
 
-**Multi-objective optimization** is about balancing these conflicting goals simultaneously.  
+**Multi-objective optimisation** is about balancing these conflicting goals simultaneously.  
 
 
 ## **Why is it Important?**  
@@ -54,21 +55,26 @@ Imagine you want to **spend less money (Cost)** but also **use less energy (Ener
    - Work is often fixed, but balancing family and personal time is tricky.  
 
 3. **Shopping Decisions**:  
-   - Limited budget, many desires: you need to prioritize.  
+   - Limited budget, many desires: you need to prioritise.  
    - Some products **look good**, others **perform well**—how do you pick the one that’s both satisfying and practical?  
 
 ## **Why is it Difficult?**  
 1. **No Single Perfect Answer**:  
-   - Trade-offs are inevitable. You search for **balanced solutions** like the green points in the graph: cost-efficient *and* energy-saving.  
+   - Trade-offs are inevitable. You search for a set of **diversed solutions** like the green points in the graph: cost-efficient *and* energy-saving.  
 
 2. **Too Many Poor Solutions**:  
    - Many options (like the pink points) fail to perform well on either goal and need to be eliminated.  
 
 3. **Finding Many Optimal Solutions is Challenging**:  
-   - Identifying just one best solution is hard, let alone discovering multiple optimal ones.  
+   - Identifying just one best solution is hard, let alone discovering multiple optimal ones. 
    - This requires **smart strategies** and **effective tools**.  
 
-4. **Decision-Making Comes Next**:  
+4. **GO-TO algorithms**
+   - The go-to option in industry is usually the **NSGA-II** or MOEA/D.
+   - However, they might not be the most appropriate algorithms.
+   - They also require proper **setting** to reach a good performance.
+   
+5. **Decision-Making Comes Next**:  
    - After finding optimal solutions, decision-makers choose the most suitable one(s) based on their priorities (e.g., high-end, mid-range, low-cost).  
 
-**In short, multi-objective optimization is the art of achieving “both-and” in a world of trade-offs.**  
+**In short, multi-objective optimisation is the art of achieving “both-and” in a world of trade-offs.**  

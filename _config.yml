@@ -124,9 +124,7 @@ author:
       url: "mailto:zimin.liang@outlook.com"
     - label: "or zimin.liang@foxmail.com"
       url: "mailto:zimin.liang@foxmail.com"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=100004062171431"
+      icon: "fas fa-fw fa-envelope-square"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Zim-L/"
@@ -147,9 +145,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/zimin-liang/"
-    - label: "School of Computer Science, University of Birmingham,Edgbaston, Birmingham  B15 2TT United Kingdom"
-      icon: "fab fa-fw fa-home"
-      url: "https://birmingham.ac.uk/schools/computer-science/"
 
 # Reading Files
 include:
