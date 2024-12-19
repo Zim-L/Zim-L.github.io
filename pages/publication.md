@@ -1,9 +1,13 @@
 ---
 layout: single
-title: Publication / 发表
+title: 发表 / Publication
 permalink: /publication/
 author_profile: true
+toc: true
 ---
+
+### To Appear
+
 
 ### 2024
  - Z. Liang, Z. Cui, M. Li. Pareto landscape: Visualising the landscape of multi-objective optimisation problems. In International Conference on Parallel Problem Solving from Nature (PPSN), 2024
@@ -11,3 +15,7 @@ author_profile: true
 
 ### 2023
  - Z. Liang,  M. Li, P. K. Lehre. Non-elitist evolutionary multi-objective optimisation: Proof-of-principle results. In Genetic and Evolutionary Computation Conference (GECCO) Companion, 383-386, 2023.
+ 
+--- 
+
+### arXiv Pre-print / Manuscript

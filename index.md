@@ -14,8 +14,8 @@ header:
       url: "/assets/files/cv.pdf"
 excerpt: >
   英国伯明翰大学的博士生，研究方向为多目标优化、演化计算及组合优化问题。<br />
-  A PhD candidate at the University of Birmingham, UK.<br />
-  Research interests: multi-objective optimisation, evolutionary computation, and combinatorial optimisation problems.<br />
+  <small>A PhD student at the University of Birmingham, UK.<br />
+  Research interests: multi-objective optimisation, evolutionary computation, and combinatorial optimisation problems.</small>
   
 feature_row:
   - image_path: /assets/images/MOillustration.png
