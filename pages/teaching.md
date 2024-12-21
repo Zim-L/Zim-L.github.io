@@ -62,10 +62,10 @@ Ark St Alban's is a school in Birmingham, UK, covering education from primary to
 
 ### 编程入门 Teaching beginners for programming
 
-本人在高中和大学期间为同学、朋友及晚辈亲戚提供无偿的编程入门辅导，教Pascal、C++、Java、Python和Haskell。同时，在伯明翰大学本科及硕士期间，本人运营了一个编程俱乐部，为学弟学妹提供补习服务，帮助他们巩固基础知识并适应全英文教学环境。
+本人在高中和大学期间为同学、朋友提供编程入门辅导，教Pascal、C++、Java、Python与Haskell。同时，在伯明翰大学本科及硕士期间，本人运营了一个编程俱乐部，为学弟学妹提供补习服务，帮助他们巩固基础知识并适应全英文教学环境。
 计算机科学的入门常常令初学者感到困难（这在计算机系本科大一挂科率居高不下中尤为体现），因为它需要学生转变思维模式，掌握程序化的逻辑和抽象能力。我在教学中注重逐步引导学生构建计算思维，帮助他们理解数据结构与算法的核心概念，并学会将其应用于实际问题。
 
-During high school and university, I provided free programming tutorials in languages like Pascal, C++, Java, Python, and Haskell to peers and younger students. At university, I ran a programming club to help international students strengthen their foundations and adapt to English-based learning.
+During high school and university, I provided programming tutorials in languages like Pascal, C++, Java, Python, and Haskell to peers and younger students. At university, I ran a programming club to help international students strengthen their foundations and adapt to English-based learning.
 Beginners often struggle with computer science because it requires developing computational thinking, which is challenging for many. My teaching focused on gradually building this skill, ensuring students understood core concepts like data structures and algorithms and could apply them effectively.
 
 
@@ -73,7 +73,7 @@ Beginners often struggle with computer science because it requires developing co
 
 ## Student Projects  <a name="projects"></a>
 
-My primary research interests lie in multi-objective optimisation, evolutionary computation and their applications. I am also interested in multi-agent models, artifical life and its intersection with computational STSE (science, technology, socity and environment).
+My primary research interests lie in multi-objective optimisation, evolutionary computation and their applications. I am also interested in multi-agent models, artifical life and its intersection with STSE (science, technology, society and environment).
 
 If students are interested in conducting research/programming projects relate to the aboves, free feel to contact me.
 I would be happy to provide project ideas and support.
@@ -107,7 +107,7 @@ A list of classic/emerging problems:
  - When to add what constraint for easier decision making?
  
 3. Aritificial life and Agent based modelling
- - Agent-based simulation with simple agent rules, emerging interesting phenomenon (e.g., Stock market crash, Social hierachy, etc) 
+ - Agent-based simulation with simple agent rules (in a flocking manner), emerging interesting phenomenon (e.g., Stock market crash, Social hierachy, etc) 
  - Similation of evolutionary systems (e.g., Life history evolution)
  - Similation of survival/evolution of a specific specie, discussing their relationship with human (Cross-discipline of Artificial life and STSE)
  

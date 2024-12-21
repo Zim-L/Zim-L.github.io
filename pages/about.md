@@ -17,7 +17,8 @@ class: wide
  - 多目标理论测试问题。
 
 **了解详情**<br />
-如果您来自产业界在招聘，可浏览[**产业 Industry**](/industry/)<br />如果您关心我的研究内容，可浏览[**研究 Research**](/research/)
+如果您来自产业界在招聘，可浏览 [**产业 Industry**](/industry/)<br />如果您关心我的研究内容，可浏览 [**研究 Research**](/research/)<br />
+如果您是学生，想尝试做科研项目，欢迎探索[学生项目 Student Projects](/Teaching/#projects)
 {: .notice--info}
 
 我同时在伯明翰大学担任教学助理（[课程信息](/teaching/)），并在[**博士联盟**](https://www.doctorateassociation.org/)学术部任职部长，组织学术活动并推动跨学科合作，欢迎有意合作者联系。业余时间喜欢钢琴、围棋、阅读及四柱命理。
@@ -46,6 +47,7 @@ I also serve as a teaching assistant([modules](/teaching/)) at the University of
 
 
 ## 动态 News
+ - December 2024 | 第二期天苏纵论 - 可持续发展论坛炉边夜话 - 面向能源转型的动态计算模型与智能算法的可持续发展路径 | 线上学术会议
  - December 2024 | 来自南方科技大学的Prof. Hisao Ishibuchi 带队来李密青研究小组访问交流，热烈欢迎！| University of Birmingham, Birmingham, UK
  - November 2024 | 线下参与会议：行星文明史研究跨学科论坛 | 南方科技大学，深圳，中国。
  - October 2024 | 博士联盟2024线上沙龙第六期-浅谈几个常常被误解的语言学问题 | 线上学术会议
