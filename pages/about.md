@@ -18,7 +18,7 @@ class: wide
 
 **了解详情**<br />
 如果您来自产业界在招聘，可浏览 [**产业 Industry**](/industry/)<br />如果您关心我的研究内容，可浏览 [**研究 Research**](/research/)<br />
-如果您是学生，想尝试做科研项目，欢迎探索[学生项目 Student Projects](/Teaching/#projects)
+如果您是学生，想尝试做科研项目，欢迎探索[学生项目 Student Projects](/teaching/#projects)
 {: .notice--info}
 
 我同时在伯明翰大学担任教学助理（[课程信息](/teaching/)），并在[**博士联盟**](https://www.doctorateassociation.org/)学术部任职部长，组织学术活动并推动跨学科合作，欢迎有意合作者联系。业余时间喜欢钢琴、围棋、阅读及四柱命理。
