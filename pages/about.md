@@ -7,32 +7,28 @@ class: wide
 ---
 
 
-
 [ 下载简历 / Download CV ](/assets/files/cv.pdf)
 
-英国伯明翰大学计算机系博士生，师从[李密青博士](https://sites.google.com/view/miqing-li/applied-research)及[Per Kristian Lehre教授](https://pklehre.github.io/EC-Theory-UoB/Lehre/)。主要研究优化与人工智能，既解析优化问题并通过开发算法（如演化算法、局部搜索）来解决问题。目前方向有：
- - 多目标组合优化
- - 演化算法与局部搜索的对比
- - 优化问题分析（适应度地形分析及可视化）
- - 多目标理论测试问题。
 
-**了解详情**<br />
-如果您来自产业界在招聘，可浏览 [**产业 Industry**](/industry/)<br />如果您关心我的研究内容，可浏览 [**研究 Research**](/research/)<br />
-如果您是学生，想尝试做科研项目，欢迎探索[学生项目 Student Projects](/teaching/#projects)
-{: .notice--info}
+I am currently a PhD student in the School of Computer Science at the University of Birmingham, supervised by [Dr. Miqing Li](https://sites.google.com/view/miqing-li/applied-research) and [Professor Per Kristian Lehre](https://pklehre.github.io/EC-Theory-UoB/Lehre/). My research lies at the intersection of optimisation and AI, aiming to analyse optimisation problems and address them through the development of algorithms (e.g., evolutionary algorithms, local search). 
 
-我同时在伯明翰大学担任教学助理（[课程信息](/teaching/)），并在[**博士联盟**](https://www.doctorateassociation.org/)学术部任职部长，组织学术活动并推动跨学科合作，欢迎有意合作者联系。业余时间喜欢钢琴、围棋、阅读及四柱命理。
-
-
-I am currently a PhD student at the School of Computer Science at the University of Birmingham, supervised by [Dr. Miqing Li](https://sites.google.com/view/miqing-li/applied-research) and [Professor Per Kristian Lehre](https://pklehre.github.io/EC-Theory-UoB/Lehre/). My research sits at the intersection between optimisation and AI, aiming to analyse optimisation problems and solve them by developing algorithms (e.g., evolutionary algorithms, local search). My current research interests include
- - multi-objective combinatorial optimization
- - comparisons between evolutionary algorithms and local search
- - optimization problem analysis (fitness landscape analysis and visualization)
- - multi-objective test problems in theory community
+My current research interests include
+ - Multi-objective combinatorial optimization
+ - Optimisation problem analysis (fitness landscape analysis and visualisation)
+ - Multi-objective test problems in runtime analysis community
+ - Comparisons between evolutionary algorithms and local search
  - See my [research page](/research/) for more information
 
-I also serve as a teaching assistant([modules](/teaching/)) at the University of Birmingham and as the Head of the Academic Department in the [Doctorate Associate](https://www.doctorateassociation.org/), where I organise academic events and promote interdisciplinary collaboration. Welcome to get in touch for collaboration! In my spare time, I enjoy playing the piano, Go, reading, and studying the Four Pillars of Destiny.
+I also serve as a teaching assistant([modules](/teaching/)) at the University of Birmingham; and as the Head of the Academic Department in the [Doctorate Associate](https://www.doctorateassociation.org/), where I organise academic events and promote interdisciplinary collaboration. Please feel free to get in touch regarding potential collaboration.
 
+In my spare time, I enjoy playing the piano, Go, reading, and studying the Four Pillars of Destiny.
+
+
+**Learn more**<br />
+If you are from industry and recruiting, please visit [**Industry**](/industry/)<br />
+If you are interested in my research, please visit [**Research**](/research/)<br />
+If you are a student and would like to try research projects, you are welcome to explore [**Student Projects**](/teaching/#projects)
+{: .notice--info}
 
 ---
 
@@ -47,9 +43,16 @@ I also serve as a teaching assistant([modules](/teaching/)) at the University of
 
 
 ## 动态 News
+ - August 2025 | 线下参与会议：FOGA'25 | Einsteinweg 55, 2333 CC Leiden, The Netherlands
+ - June 2025 | 博士联盟2025线上沙龙第四期-电子时代下如何维护亲子关系 | 线上学术会议
+ - June 2025 | 成功举办第二届伯明翰国际青年学者论坛 - AI分论坛 Birmingham International Scholars Forum - AI sub-forum | University of Birmingham, Birmingham, UK
+ - April 2025 | 博士联盟2025线上沙龙第三期-跨学科研究与学术职业发展 | 线上学术会议
+ - March 2025 | 博士联盟2025线上沙龙第二期-在线圆桌论坛"向右转的西方世界” | 线上学术会议
+ - February 2025 | 博士联盟2025线上沙龙第一期-中国非物质文化遗产的传承与保护 | 线上学术会议
+ - December 2024 | 线下参与：桥接英才看江苏 | 江苏，南京，中国
+ - December 2024 | 博士联盟2024线上沙龙第七期-碳计价展望与回顾 | 线上学术会议
  - December 2024 | 第二期天苏纵论 - 可持续发展论坛炉边夜话 - 面向能源转型的动态计算模型与智能算法的可持续发展路径 | 线上学术会议
  - December 2024 | 来自南方科技大学的Prof. Hisao Ishibuchi 带队来李密青研究小组访问交流，热烈欢迎！| University of Birmingham, Birmingham, UK
- - November 2024 | 线下参与会议：行星文明史研究跨学科论坛 | 南方科技大学，深圳，中国。
  - October 2024 | 博士联盟2024线上沙龙第六期-浅谈几个常常被误解的语言学问题 | 线上学术会议
  - September 2024 | 线下参与会议：PPSN'24 | University of Applied Sciences Upper Austria, Hagenberg, Austria
  - August 2024 | 博士联盟2024线上沙龙第五期：从电子游戏到桌游：英国《战锤》的中国粉丝文化 | 线上学术会议
@@ -57,13 +60,10 @@ I also serve as a teaching assistant([modules](/teaching/)) at the University of
  - June 2024 | 博览英才 智创湾区｜深圳宝安区创新创业大赛海外博创赛（2023）总决赛圆满结束！| University of Cambridge, Cambridge, UK
  - June 2024 | 博士联盟2024线上沙龙第三期——“欧洲正走向衰亡？欧洲地缘政治的昨天、今天和明天” | 线上学术会议
  - May 2024 | 成功举办伯明翰国际青年学者论坛 - AI分论坛 Birmingham International Scholars Forum - AI sub-forum | University of Birmingham, Birmingham, UK
- - May 2024 | Our work on visualising landscape of multi-objective optimisation problems has been accepted by PPSN'24. Congratulation!
  - May 2024 | 博士联盟2024线上沙龙第二期——新能源与可持续发展 | 线上学术会议
- - March 2024 | Our work on empirical comparison between MOEAs and local search on multi-objective combinatorial problems has been accepted by GECCO'24!
  - Feburary 2024 | 博士联盟青年学者圆桌论坛第一期——碳中和与可持续发展 | 线上学术会议
- - Decemebr 2023 | 线下参与：第一届中国侨智发展大会 | 福州，福建，中国
- - June 2023 | 线下参与会议：GECCO'23 | Altis Grand Hotel, Lisbon, Portugese
- - March 2023 | Our work (collaborated with Prof Per Kristian Lehre) on some preliminary results of non-elitist evolutionary multi-objective optimisation has been accepted by GECCO'23!
+ - December 2023 | 线下参与：第一届中国侨智发展大会 | 福州，福建，中国
+ - June 2023 | 线下参与会议：GECCO'23 | Altis Grand Hotel, Lisbon, Portuguese
 
 ---
 
