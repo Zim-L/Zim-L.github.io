@@ -8,25 +8,25 @@ feature_row:
   - alt: "Algorithms"
     title: Algorithms Design
     excerpt: "Design algorithms for complicated multi-objective optimisation problems which are either discrete or having a rugged fitness landscape."
-    url: "/research/"
+    url: "https://dl.acm.org/doi/10.1145/3583133.3590646"
     btn_class: "btn--primary btn--large"
     btn_label: "Learn more"
   - alt: "Empirical"
     title: Analysing Algorithms
     excerpt: Compare multi-objective optimisation algorithms on different problems, studying when and why to choose some algorithms on different problem classes.
-    url: "/research/"
+    url: "https://dl.acm.org/doi/10.1145/3638529.3654077"
     btn_class: "btn--primary btn--large"
     btn_label: "Learn more"
   - alt: "Visualisation"
     title: Landscape Visualisation
     excerpt: Visualisation methods specifically for multi-objective fitness landscape, to provide intuitive ideas about the optimisation problems. 
-    url: "/research/"
+    url: "https://dl.acm.org/doi/10.1007/978-3-031-70085-9_19"
     btn_class: "btn--primary btn--large"
     btn_label: "Learn more"
   - alt: "Theorectical"
     title: Theorectical Studies
     excerpt: Theorectical studies such as the characteristics of Pseudo boolean problems in rigorous runtime analysis.
-    url: "/research/"
+    url: "https://dl.acm.org/doi/10.1145/3729878.3746700"
     btn_class: "btn--primary btn--large"
     btn_label: "Learn more"
   - alt: "Other"
