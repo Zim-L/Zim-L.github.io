@@ -25,7 +25,7 @@ In my spare time, I enjoy playing the piano, Go, reading, and studying the Four 
 
 
 **Learn more**<br />
-If you are from industry and recruiting, please visit [**Industry**](/industry/)<br />
+如果您来自国内产业界，想了解多目标优化，欢迎点击 [**产业**](/industry/)<br />
 If you are interested in my research, please visit [**Research**](/research/)<br />
 If you are a student and would like to try research projects, you are welcome to explore [**Student Projects**](/teaching/#projects)
 {: .notice--info}
