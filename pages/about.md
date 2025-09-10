@@ -19,7 +19,7 @@ My current research interests include
  - Comparisons between evolutionary algorithms and local search
  - See my [research page](/research/) for more information
 
-I also serve as a teaching assistant([modules](/teaching/)) at the University of Birmingham; and as the Head of the Academic Department in the [Doctorate Associate](https://www.doctorateassociation.org/), where I organise academic events and promote interdisciplinary collaboration. Please feel free to get in touch regarding potential collaboration.
+I also serve as a teaching assistant([modules](/teaching/)) at the University of Birmingham; and as the Head of the Academic Department in the [Doctorate Associate](https://www.doctorateassociation.org/), where I organise academic events and promote interdisciplinary collaboration. Please feel free to get in touch regarding potential collaboration. 
 
 In my spare time, I enjoy playing the piano, Go, reading, and studying the Four Pillars of Destiny.
 
@@ -34,16 +34,17 @@ If you are a student and would like to try research projects, you are welcome to
 
 ## 亮点 Highlights
 
+**\[[FOGA2025](https://dl.acm.org/doi/10.1145/3729878.3746700)\]** analyses the features of existing pseudo-Boolean benchmarks and proposed new ones that exhibit more realistic features. 
+
 **\[[PPSN2024](https://dl.acm.org/doi/10.1007/978-3-031-70085-9_19)\]** develops a tool to visualise the landscape of multi-objective optimisation problems with a low-dimensional decision space. 
 <img src="/assets/images/PPSN2024.png" alt="PPSN2024" width="800" style="display: block; margin: auto;">
 
-
 **\[[GECCO2023](https://dl.acm.org/doi/10.1145/3583133.3590646)\]** showed that non-elitist MOEAs can compete with well-known elitist MOEAs (NSGA-II, SMS-EMOA and NSGA-III) on several combinatorial problems, especially for the one with rugged fitness landscape. | 
-<img src="/assets/images/GECCO2023.png" alt="GECCO2023" width="800" style="display: block; margin: auto;">
 
 
 ## 动态 News
  - August 2025 | 线下参与会议：FOGA'25 | Einsteinweg 55, 2333 CC Leiden, The Netherlands
+ - August 2025 | 博士联盟2025线上沙龙第五期-探寻生成式人工智能工具在管理学创意教学的运用 | 线上学术会议
  - June 2025 | 博士联盟2025线上沙龙第四期-电子时代下如何维护亲子关系 | 线上学术会议
  - June 2025 | 成功举办第二届伯明翰国际青年学者论坛 - AI分论坛 Birmingham International Scholars Forum - AI sub-forum | University of Birmingham, Birmingham, UK
  - April 2025 | 博士联盟2025线上沙龙第三期-跨学科研究与学术职业发展 | 线上学术会议
