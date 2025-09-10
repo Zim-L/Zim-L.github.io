@@ -19,10 +19,9 @@ My current research interests include
  - Comparisons between evolutionary algorithms and local search
  - See my [research page](/research/) for more information
 
-I also serve as a teaching assistant([modules](/teaching/)) at the University of Birmingham; and as the Head of the Academic Department in the [Doctorate Associate](https://www.doctorateassociation.org/), where I organise academic events and promote interdisciplinary collaboration. Please feel free to get in touch regarding potential collaboration. 
+I serve as a teaching assistant([modules](/teaching/)) at the University of Birmingham; and as the Head of the Academic Department in the [Doctorate Associate](https://www.doctorateassociation.org/), where I organise academic events and promote interdisciplinary collaboration. Please feel free to get in touch regarding potential collaboration. I also served in the Entertainment Department and the IT Department of the University of Birmingham Chinese Society (now [UoB CSSA](https://www.cssauob.com/)) back from 2017 to 2019.
 
 In my spare time, I enjoy playing the piano, Go, reading, and studying the Four Pillars of Destiny.
-
 
 **Learn more**<br />
 如果您来自国内产业界，想了解多目标优化，欢迎点击 [**产业**](/industry/)<br />
@@ -45,6 +44,7 @@ If you are a student and would like to try research projects, you are welcome to
 ## 动态 News
  - August 2025 | 线下参与会议：FOGA'25 | Einsteinweg 55, 2333 CC Leiden, The Netherlands
  - August 2025 | 博士联盟2025线上沙龙第五期-探寻生成式人工智能工具在管理学创意教学的运用 | 线上学术会议
+ - July 2025 | 线上参与会议：GECCO'25 | 线上学术会议
  - June 2025 | 博士联盟2025线上沙龙第四期-电子时代下如何维护亲子关系 | 线上学术会议
  - June 2025 | 成功举办第二届伯明翰国际青年学者论坛 - AI分论坛 Birmingham International Scholars Forum - AI sub-forum | University of Birmingham, Birmingham, UK
  - April 2025 | 博士联盟2025线上沙龙第三期-跨学科研究与学术职业发展 | 线上学术会议
