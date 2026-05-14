@@ -14,7 +14,7 @@ toc: true
 ### 2026
  - Z. Liang, M. Li. Random is Faster than Systematic in Multi-objective Local Search. In *AAAI Conference on Artificial Intelligence (AAAI)*, 2026.
  - S. Ren, Z. Liang, M. Li, C. Qian. Not Just for Archiving: Provable Benefits of Reusing the Archive in Evolutionary Multi-objective Optimization. In *AAAI Conference on Artificial Intelligence (AAAI)*, 2026.
- - Z. Cui, Z. Liang, M. Li. A Problem Landscape Visualisation Method for Multi-Objective Optimisation. In *Mathematics and Computers in Simulation (MCA)*, 2026.
+ - Z. Cui, Z. Liang, M. Li. A Problem Landscape Visualisation Method for Multi-Objective Optimisation. In *Mathematical and Computational Applications (MCA)*, 2026.
 
 ### 2025
  - Z. Liang, M. Li. On the Problem Characteristics of Multi-objective Pseudo-Boolean Functions in Runtime Analysis. In *Foundations of Genetic Algorithms (FOGA)*, 2025.
