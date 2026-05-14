@@ -10,21 +10,22 @@ class: wide
 [ 下载简历 / Download CV ](/assets/files/cv.pdf)
 
 
-I am currently a PhD student in the School of Computer Science at the University of Birmingham, supervised by [Dr. Miqing Li](https://sites.google.com/view/miqing-li/applied-research) and [Professor Per Kristian Lehre](https://pklehre.github.io/EC-Theory-UoB/Lehre/). My research lies at the intersection of optimisation and AI, aiming to analyse optimisation problems and address them through the development of algorithms (e.g., evolutionary algorithms, local search). 
+I completed my PhD in the School of Computer Science at the University of Birmingham in 2026, supervised by [Dr. Miqing Li](https://sites.google.com/view/miqing-li/applied-research) and [Professor Per Kristian Lehre](https://pklehre.github.io/EC-Theory-UoB/Lehre/). My research lies at the intersection of **AI and optimisation**, with a focus on understanding *why* algorithms work — through theoretical analysis and empirical investigation — and on developing principled methods that work reliably across problem structures.
 
 My current research interests include
- - Multi-objective combinatorial optimization
- - Optimisation problem analysis (fitness landscape analysis and visualisation)
- - Multi-objective test problems in runtime analysis community
- - Comparisons between evolutionary algorithms and local search
+ - AI and optimisation: optimisation algorithms (local search, evolutionary algorithms) and their theoretical foundations
+ - Multi-objective combinatorial optimisation
+ - Fitness landscape analysis and visualisation
+ - Multi-agent systems
+ - Artificial Life
  - See my [research page](/research/) for more information
 
-I serve as a teaching assistant([modules](/teaching/)) at the University of Birmingham; and as the Head of the Academic Department in the [Doctorate Associate](https://www.doctorateassociation.org/), where I organise academic events and promote interdisciplinary collaboration. Please feel free to get in touch regarding potential collaboration. I also served in the Entertainment Department and the IT Department of the University of Birmingham Chinese Society (now [UoB CSSA](https://www.cssauob.com/)) back from 2017 to 2019.
+I serve as the Head of the Academic Department in the [Doctorate Association](https://www.doctorateassociation.org/), where I organise academic events and promote interdisciplinary collaboration. I also serve as a teaching assistant ([modules](/teaching/)) at the University of Birmingham. Please feel free to get in touch regarding potential collaboration. I also served in the Entertainment Department and the IT Department of the University of Birmingham Chinese Society (now [UoB CSSA](https://www.cssauob.com/)) back from 2017 to 2019.
 
 In my spare time, I enjoy playing the piano, Go, reading, and studying the Four Pillars of Destiny.
 
 **Learn more**<br />
-如果您来自国内产业界，想了解多目标优化，欢迎点击 [**产业**](/industry/)<br />
+如果您来自国内产业界，想了解AI与优化中设计多个目标的场景，欢迎点击 [**产业**](/industry/)<br />
 If you are interested in my research, please visit [**Research**](/research/)<br />
 If you are a student and would like to try research projects, you are welcome to explore [**Student Projects**](/teaching/#projects)
 {: .notice--info}
@@ -33,38 +34,49 @@ If you are a student and would like to try research projects, you are welcome to
 
 ## 亮点 Highlights
 
-**\[[FOGA2025](https://dl.acm.org/doi/10.1145/3729878.3746700)\]** analyses the features of existing pseudo-Boolean benchmarks and proposed new ones that exhibit more realistic features. 
+**\[[AAAI2026](https://doi.org/10.1609/aaai.v40i43.41036)\]** shows that random neighbourhood exploration is faster than systematic scan in Pareto-based local search — a counterintuitive result with practical implications for multi-objective algorithm design.
+<img src="/assets/images/AAAI2026.png" alt="AAAI2026" width="800" style="display: block; margin: auto;">
 
-**\[[PPSN2024](https://dl.acm.org/doi/10.1007/978-3-031-70085-9_19)\]** develops a tool to visualise the landscape of multi-objective optimisation problems with a low-dimensional decision space. 
+**\[[FOGA2025](https://dl.acm.org/doi/10.1145/3729878.3746700)\]** analyses the features of existing pseudo-Boolean benchmarks and proposes new ones that exhibit more realistic features.
+
+**\[[PPSN2024](https://dl.acm.org/doi/10.1007/978-3-031-70085-9_19)\]** develops a tool to visualise the landscape of multi-objective optimisation problems with a low-dimensional decision space.
 <img src="/assets/images/PPSN2024.png" alt="PPSN2024" width="800" style="display: block; margin: auto;">
 
-**\[[GECCO2023](https://dl.acm.org/doi/10.1145/3583133.3590646)\]** showed that non-elitist MOEAs can compete with well-known elitist MOEAs (NSGA-II, SMS-EMOA and NSGA-III) on several combinatorial problems, especially for the one with rugged fitness landscape. | 
+**\[[GECCO2023](https://dl.acm.org/doi/10.1145/3583133.3590646)\]** showed that non-elitist MOEAs can compete with well-known elitist MOEAs (NSGA-II, SMS-EMOA and NSGA-III) on several combinatorial problems, especially for those with rugged fitness landscapes.
 
 
 ## 动态 News
- - August 2025 | 线下参与会议：FOGA'25 | Einsteinweg 55, 2333 CC Leiden, The Netherlands
+ - May 2026 | 博士联盟AI安全研讨会 | University College London, London, UK
+ - April 2026 | 2026年博士联盟线上沙龙第三期-AI作为研究伙伴：如何把AI嵌入定性研究全过程 | 线上学术会议
+ - March 2026 | 博士联盟2026线上沙龙第二期-中国儒家公民的兴起 | 线上学术会议
+ - Feburary 2026 | 博士联盟2026线上沙龙第一期-科学赋能政策：城市塑料污染的多维解析与治理路径 | 线上学术会议
+ - January 2026 | **线下参与会议：AAAI'25** | Singapore EXPO, Singapore
+ - December | 博士联盟2025线上沙龙第七期-打开文物保护“超学科工具箱”：科技如何守护文明的基因 | 线上学术会议
+ - November 2025 | 博士联盟玛丽居里经验分享会 | University College London, London, UK
+ - September 2025 | 博士联盟2025线上沙龙第六期-心血管健康从了解开始：常见病、日常预防与治疗选择 | 线上学术会议
+ - August 2025 | **线下参与会议：FOGA'25** | Einsteinweg 55, 2333 CC Leiden, The Netherlands
  - August 2025 | 博士联盟2025线上沙龙第五期-探寻生成式人工智能工具在管理学创意教学的运用 | 线上学术会议
- - July 2025 | 线上参与会议：GECCO'25 | 线上学术会议
+ - July 2025 | **线上参与会议：GECCO'25** | 线上学术会议
  - June 2025 | 博士联盟2025线上沙龙第四期-电子时代下如何维护亲子关系 | 线上学术会议
  - June 2025 | 成功举办第二届伯明翰国际青年学者论坛 - AI分论坛 Birmingham International Scholars Forum - AI sub-forum | University of Birmingham, Birmingham, UK
  - April 2025 | 博士联盟2025线上沙龙第三期-跨学科研究与学术职业发展 | 线上学术会议
- - March 2025 | 博士联盟2025线上沙龙第二期-在线圆桌论坛"向右转的西方世界” | 线上学术会议
+ - March 2025 | 博士联盟2025线上沙龙第二期-在线圆桌论坛"向右转的西方世界" | 线上学术会议
  - February 2025 | 博士联盟2025线上沙龙第一期-中国非物质文化遗产的传承与保护 | 线上学术会议
  - December 2024 | 线下参与：桥接英才看江苏 | 江苏，南京，中国
  - December 2024 | 博士联盟2024线上沙龙第七期-碳计价展望与回顾 | 线上学术会议
  - December 2024 | 第二期天苏纵论 - 可持续发展论坛炉边夜话 - 面向能源转型的动态计算模型与智能算法的可持续发展路径 | 线上学术会议
  - December 2024 | 来自南方科技大学的Prof. Hisao Ishibuchi 带队来李密青研究小组访问交流，热烈欢迎！| University of Birmingham, Birmingham, UK
  - October 2024 | 博士联盟2024线上沙龙第六期-浅谈几个常常被误解的语言学问题 | 线上学术会议
- - September 2024 | 线下参与会议：PPSN'24 | University of Applied Sciences Upper Austria, Hagenberg, Austria
+ - September 2024 | **线下参与会议：PPSN'24** | University of Applied Sciences Upper Austria, Hagenberg, Austria
  - August 2024 | 博士联盟2024线上沙龙第五期：从电子游戏到桌游：英国《战锤》的中国粉丝文化 | 线上学术会议
  - July 2024 | 博士联盟2024线上沙龙第四期 ——水资源与可持续发展 | 线上学术会议
  - June 2024 | 博览英才 智创湾区｜深圳宝安区创新创业大赛海外博创赛（2023）总决赛圆满结束！| University of Cambridge, Cambridge, UK
- - June 2024 | 博士联盟2024线上沙龙第三期——“欧洲正走向衰亡？欧洲地缘政治的昨天、今天和明天” | 线上学术会议
+ - June 2024 | 博士联盟2024线上沙龙第三期——"欧洲正走向衰亡？欧洲地缘政治的昨天、今天和明天" | 线上学术会议
  - May 2024 | 成功举办伯明翰国际青年学者论坛 - AI分论坛 Birmingham International Scholars Forum - AI sub-forum | University of Birmingham, Birmingham, UK
  - May 2024 | 博士联盟2024线上沙龙第二期——新能源与可持续发展 | 线上学术会议
  - Feburary 2024 | 博士联盟青年学者圆桌论坛第一期——碳中和与可持续发展 | 线上学术会议
  - December 2023 | 线下参与：第一届中国侨智发展大会 | 福州，福建，中国
- - June 2023 | 线下参与会议：GECCO'23 | Altis Grand Hotel, Lisbon, Portuguese
+ - June 2023 | **线下参与会议：GECCO'23** | Altis Grand Hotel, Lisbon, Portuguese
 
 ---
 
@@ -81,10 +93,10 @@ United Kingdom<br />
 or [zimin.liang@foxmail.com](mailto:zimin.liang@foxmail.com)
 {: .text-center}
 
-<a href="https://www.linkedin.com/in/zimin-liang/"><i class="fa-brands fa-linkedin fa-lg"></i> LinkedIn </a>  <a href="https://github.com/Zim-L/"><i class="fa-brands fa-github fa-lg"></i> Github</a> 
+<a href="https://www.linkedin.com/in/zimin-liang/"><i class="fa-brands fa-linkedin fa-lg"></i> LinkedIn </a>  <a href="https://github.com/Zim-L/"><i class="fa-brands fa-github fa-lg"></i> Github</a>
 {: .text-center}
 
 ---
 
-> “我希望在成长道路上帮助更多人，为人类文明的长久续存做贡献。”<br />
+> "我希望在成长道路上帮助更多人，为人类文明的长久续存做贡献。"<br />
 > "I aim to help more people and contribute to the long-term survival of human civilization."
