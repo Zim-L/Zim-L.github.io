@@ -39,7 +39,7 @@ If you are a student and would like to try research projects, you are welcome to
 
 **\[[FOGA2025](https://dl.acm.org/doi/10.1145/3729878.3746700)\]** analyses the features of existing pseudo-Boolean benchmarks and proposes new ones that exhibit more realistic features.
 
-**\[[PPSN2024](https://dl.acm.org/doi/10.1007/978-3-031-70085-9_19)\]** develops a tool to visualise the landscape of multi-objective optimisation problems with a low-dimensional decision space.
+**\[[PPSN2024](https://dl.acm.org/doi/10.1007/978-3-031-70085-9_19)\]** develops a tool to visualise the landscape of multi-objective optimisation problems with a low-dimensional decision space. [DEMO](/problem-landscape/)
 <img src="/assets/images/PPSN2024.png" alt="PPSN2024" width="800" style="display: block; margin: auto;">
 
 **\[[GECCO2023](https://dl.acm.org/doi/10.1145/3583133.3590646)\]** showed that non-elitist MOEAs can compete with well-known elitist MOEAs (NSGA-II, SMS-EMOA and NSGA-III) on several combinatorial problems, especially for those with rugged fitness landscapes.
