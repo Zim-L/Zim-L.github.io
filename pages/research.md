@@ -20,7 +20,7 @@ feature_row:
   - alt: "Visualisation"
     title: Landscape Visualisation
     excerpt: Visualisation methods specifically for multi-objective fitness landscape, to provide intuitive ideas about the optimisation problems. 
-    url: "https://dl.acm.org/doi/10.1007/978-3-031-70085-9_19"
+    url: "/problem-landscape/"
     btn_class: "btn--primary btn--large"
     btn_label: "Learn more"
   - alt: "Theorectical"

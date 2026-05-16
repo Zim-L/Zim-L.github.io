@@ -51,7 +51,7 @@ If you are a student and would like to try research projects, you are welcome to
  - March 2026 | 博士联盟2026线上沙龙第二期-中国儒家公民的兴起 | 线上学术会议
  - Feburary 2026 | 博士联盟2026线上沙龙第一期-科学赋能政策：城市塑料污染的多维解析与治理路径 | 线上学术会议
  - January 2026 | **线下参与会议：AAAI'25** | Singapore EXPO, Singapore
- - December | 博士联盟2025线上沙龙第七期-打开文物保护“超学科工具箱”：科技如何守护文明的基因 | 线上学术会议
+ - December 2026 | 博士联盟2025线上沙龙第七期-打开文物保护“超学科工具箱”：科技如何守护文明的基因 | 线上学术会议
  - November 2025 | 博士联盟玛丽居里经验分享会 | University College London, London, UK
  - September 2025 | 博士联盟2025线上沙龙第六期-心血管健康从了解开始：常见病、日常预防与治疗选择 | 线上学术会议
  - August 2025 | **线下参与会议：FOGA'25** | Einsteinweg 55, 2333 CC Leiden, The Netherlands
@@ -98,5 +98,5 @@ or [zimin.liang@foxmail.com](mailto:zimin.liang@foxmail.com)
 
 ---
 
-> "我希望在成长道路上帮助更多人，为人类文明的长久续存做贡献。"<br />
+> "我希望在前进的道路上帮助更多人，为人类文明的长久续存做贡献。"<br />
 > "I aim to help more people and contribute to the long-term survival of human civilization."
