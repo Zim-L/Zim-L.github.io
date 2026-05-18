@@ -34,7 +34,7 @@ If you are a student and would like to try research projects, you are welcome to
 
 ## 亮点 Highlights
 
-**\[[AAAI2026](https://doi.org/10.1609/aaai.v40i43.41036)\]** shows that random neighbourhood exploration is faster than systematic scan in Pareto-based local search — a counterintuitive result with practical implications for multi-objective algorithm design.
+**\[[AAAI2026](/assets/files/AAAI26_Random_MOLS.pdf)\]** shows that random neighbourhood exploration is faster than systematic scan in Pareto-based local search — a counterintuitive result with practical implications for multi-objective algorithm design.
 <img src="/assets/images/AAAI2026.png" alt="AAAI2026" width="800" style="display: block; margin: auto;">
 
 **\[[FOGA2025](https://dl.acm.org/doi/10.1145/3729878.3746700)\]** analyses the features of existing pseudo-Boolean benchmarks and proposes new ones that exhibit more realistic features.
@@ -49,9 +49,9 @@ If you are a student and would like to try research projects, you are welcome to
  - May 2026 | 博士联盟AI安全研讨会 | University College London, London, UK
  - April 2026 | 2026年博士联盟线上沙龙第三期-AI作为研究伙伴：如何把AI嵌入定性研究全过程 | 线上学术会议
  - March 2026 | 博士联盟2026线上沙龙第二期-中国儒家公民的兴起 | 线上学术会议
- - Feburary 2026 | 博士联盟2026线上沙龙第一期-科学赋能政策：城市塑料污染的多维解析与治理路径 | 线上学术会议
+ - February 2026 | 博士联盟2026线上沙龙第一期-科学赋能政策：城市塑料污染的多维解析与治理路径 | 线上学术会议
  - January 2026 | **线下参与会议：AAAI'25** | Singapore EXPO, Singapore
- - December 2026 | 博士联盟2025线上沙龙第七期-打开文物保护“超学科工具箱”：科技如何守护文明的基因 | 线上学术会议
+ - December 2025 | 博士联盟2025线上沙龙第七期-打开文物保护“超学科工具箱”：科技如何守护文明的基因 | 线上学术会议
  - November 2025 | 博士联盟玛丽居里经验分享会 | University College London, London, UK
  - September 2025 | 博士联盟2025线上沙龙第六期-心血管健康从了解开始：常见病、日常预防与治疗选择 | 线上学术会议
  - August 2025 | **线下参与会议：FOGA'25** | Einsteinweg 55, 2333 CC Leiden, The Netherlands
@@ -74,9 +74,9 @@ If you are a student and would like to try research projects, you are welcome to
  - June 2024 | 博士联盟2024线上沙龙第三期——"欧洲正走向衰亡？欧洲地缘政治的昨天、今天和明天" | 线上学术会议
  - May 2024 | 成功举办伯明翰国际青年学者论坛 - AI分论坛 Birmingham International Scholars Forum - AI sub-forum | University of Birmingham, Birmingham, UK
  - May 2024 | 博士联盟2024线上沙龙第二期——新能源与可持续发展 | 线上学术会议
- - Feburary 2024 | 博士联盟青年学者圆桌论坛第一期——碳中和与可持续发展 | 线上学术会议
+ - February 2024 | 博士联盟青年学者圆桌论坛第一期——碳中和与可持续发展 | 线上学术会议
  - December 2023 | 线下参与：第一届中国侨智发展大会 | 福州，福建，中国
- - June 2023 | **线下参与会议：GECCO'23** | Altis Grand Hotel, Lisbon, Portuguese
+ - June 2023 | **线下参与会议：GECCO'23** | Altis Grand Hotel, Lisbon, Portugal
 
 ---
 

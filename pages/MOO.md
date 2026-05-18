@@ -1,6 +1,6 @@
 ---
 layout : single
-title : 多目标优化 Multiobjective Optimisation 
+title : 多目标优化 Multi-Objective Optimisation 
 permalink: /MOO/
 wide : true
 author_profile: true
@@ -8,22 +8,23 @@ classes: wide
 toc : true
 ---
 
-## 什么是多目标问题？
+## 简介 · 多目标优化
+### 什么是多目标问题？
 
 <img src="/assets/images/MOillustration.png" alt="IllustrationMOO" width="400" style="display: block; margin: auto;">
 
 
-想象一下，你想花更少的**钱（Cost）**，但又希望耗更少的**能量（Energy）**来完成一件事。两个目标互相冲突：要花更少的钱，可能会耗费更多能量；要省能量，成本又可能增加。
+想象一下，你想花更少的**钱（Cost）**买冰箱，但又希望它耗更少的**能量（Energy）**。两个目标互相冲突：花更少的钱买老冰箱，可能更耗电；要省电，成本又可能增加（新冰箱）。
 
 同时优化多个冲突目标的问题，就是**多目标问题**。
 
-## 多目标问题为什么重要？
+### 多目标问题为什么重要？
 现实生活中太多这样的例子了。
 1. 造车：既要**成本低**，又要**安全**，还要**环保**。高中低端车型要各自“取舍”平衡点
 2. 时间管理：既要工作，又要陪家人，还要自己有娱乐？
 3. 购物：钱不多，想买的很多。有的货中看，有的货中用，怎么买又开心、又实用？
   
-## 多目标问题为什么难？
+### 多目标问题为什么难？
 **多目标优化就是去找各种各样的平衡方案**
 多目标问题没有唯一完美的答案，必须要**取舍**，像图里的绿色解，有便宜的有省能量的。
 很多解两个目标都不太行，就像图里的粉色解，需要赶紧“优化”掉。
@@ -37,13 +38,14 @@ toc : true
 
 --- 
 
-## What is Multi-Objective Optimisation?  
-Imagine you want to **spend less money (Cost)** but also **use less energy (Energy)** to complete a task. These two goals often conflict: reducing costs may increase energy consumption, and saving energy might raise costs.  
+## Introduction · Multi-Objective Optimisation
+### What is Multi-Objective Optimisation?  
+If you want to buy a fridge, you may want to **spend less money (Cost)** and you may want it to **use less energy (Energy)**. These two goals often conflict: reducing costs may increase energy consumption, and saving energy might raise costs (better fridge).  
 
 **Multi-objective optimisation** is about balancing these conflicting goals simultaneously.  
 
 
-## **Why is it Important?**  
+### **Why is it Important?**  
 **Real-life is full of such examples**:  
 
 1. **Engineering Design** (e.g., Car Manufacturing):  
@@ -58,7 +60,7 @@ Imagine you want to **spend less money (Cost)** but also **use less energy (Ener
    - Limited budget, many desires: you need to prioritise.  
    - Some products **look good**, others **perform well**—how do you pick the one that’s both satisfying and practical?  
 
-## **Why is it Difficult?**  
+### **Why is it Difficult?**  
 1. **No Single Perfect Answer**:  
    - Trade-offs are inevitable. You search for a set of **diversed solutions** like the green points in the graph: cost-efficient *and* energy-saving.  
 

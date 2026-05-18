@@ -18,21 +18,21 @@ excerpt: >
   Research interests: multi-objective optimisation, evolutionary computation, and combinatorial optimisation problems.</small>
   
 feature_row:
-  - image_path: /assets/images/MOillustration.png
+  - image_path: /assets/images/MOillustration2.png
     alt: "Research"
     title: 多目标优化研究 <br /> MOO Research
     excerpt: "多目标优化: 组合优化，问题分析，算法开发。<br />Multi-objective optimisation: Combinatorials Problem analysis, Algorithm development, etc. "
     url: "/research/"
     btn_class: "btn--success btn--large"
     btn_label: "了解更多 Learn more"
-  - image_path: /assets/images/PostsIllustration.png
+  - image_path: /assets/images/PostsIllustration2.png
     alt: "Posts"
     title: 随笔杂文 <br /> Posts and Notes
     excerpt: 个人关于生活、易、教育、科技的想法。<br />My understanding about life, Yi, education, science, etc. 
     url: "/posts/"
     btn_class: "btn--warning btn--large"
     btn_label: "了解更多 Learn more"
-  - image_path: /assets/images/ATIllustration.png
+  - image_path: /assets/images/ATIllustration2.png
     alt: "Other"
     title: 其他项目 <br /> Other Projects
     excerpt: 其他好玩的项目和脑洞。 <br /> Other projects and ideas that you may find interesting. 
@@ -62,5 +62,5 @@ or [zimin.liang@foxmail.com](mailto:zimin.liang@foxmail.com)
 
 ---
 
-> “我希望在成长道路上帮助更多人，为人类文明的长久续存做贡献。”<br />
+> “我希望在前进的道路上帮助更多人，为人类文明的长久续存做贡献。”<br />
 > "I aim to help more people and contribute to the long-term survival of human civilization."

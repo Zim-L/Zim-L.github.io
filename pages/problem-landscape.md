@@ -99,7 +99,8 @@ following works:
 2. Z. Cui, Z. Liang, and M. Li. **A Problem Landscape Visualisation Method for
    Multi-Objective Optimisation.** *Mathematical and Computational Applications*,
    31(3):67, 2026.
-   [[Publisher]](https://www.mdpi.com/2297-8747/31/3/67)
+   [[PDF]](/assets/files/MCA26_Problem_Landscape.pdf)
+   &nbsp;[[Publisher]](https://www.mdpi.com/2297-8747/31/3/67)
    &nbsp;DOI: `10.3390/mca31030067`
 
 3. C. M. Fonseca. **Multiobjective Genetic Algorithms with Application to
